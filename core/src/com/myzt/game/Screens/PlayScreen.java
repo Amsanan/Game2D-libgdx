@@ -1,5 +1,6 @@
 package com.myzt.game.Screens;
 
+import com.badlogic.ashley.core.Entity;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.InputAdapter;
 import com.badlogic.gdx.Screen;
